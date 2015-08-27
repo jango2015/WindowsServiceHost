@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Pablo Ferraris</authors>
+    <licenseUrl>https://raw.githubusercontent.com/pferraris/WindowsServiceHost/master/LICENSE</licenseUrl>
+	<projectUrl>https://github.com/pferraris/WindowsServiceHost</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/pferraris/WindowsServiceHost/master/WindowsServiceHost.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>WindowsService Service Host</tags>
+  </metadata>
+</package>

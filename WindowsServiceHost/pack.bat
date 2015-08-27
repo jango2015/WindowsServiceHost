@@ -1,0 +1,1 @@
+nuget pack WindowsServiceHost.csproj -Prop Configuration=Release
